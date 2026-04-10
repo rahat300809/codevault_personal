@@ -1,0 +1,5 @@
+{
+  "name": "CodeVault",
+  "description": "A personal code snippet manager with Firebase integration to keep your code organized across devices.",
+  "requestFramePermissions": []
+}
